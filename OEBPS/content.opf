@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 19.0.1" />
+		<meta name="cover" content="x1.png" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>a11y_sample1</dc:title>
+		<dc:date>2023-11-18T11:20:15Z</dc:date>
+		<dc:language>en</dc:language>
+		<meta property="dcterms:modified">2023-11-18T11:20:15Z</meta>
+		<dc:identifier id="bookid">urn:uuid:12d58d45-006b-4a62-a078-5beb2e3a3864</dc:identifier>
+		<!--fixed-layout options-->
+		<meta property="rendition:layout">pre-paginated</meta>
+		<meta property="rendition:orientation">landscape</meta>
+		<meta property="rendition:spread">both</meta>
+	</metadata>
+	<manifest>
+		<item id="a11y_sample1-10" href="a11y_sample1-10.xhtml" media-type="application/xhtml+xml" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
+		<item id="x001bj_page-0010.jpg" href="image/001bj_page-0010.jpg" media-type="image/jpeg" />
+		<item id="x001bj_page-00101.jpg" href="image/001bj_page-00101.jpg" media-type="image/jpeg" />
+		<item id="x001bj_page-00102.jpg" href="image/001bj_page-00102.jpg" media-type="image/jpeg" />
+		<item id="x001bj_page-00103.jpg" href="image/001bj_page-00103.jpg" media-type="image/jpeg" />
+		<item id="x001bj_page-00104.jpg" href="image/001bj_page-00104.jpg" media-type="image/jpeg" />
+		<item id="x001bj_page-00105.jpg" href="image/001bj_page-00105.jpg" media-type="image/jpeg" />
+		<item id="x001bj_page-00106.jpg" href="image/001bj_page-00106.jpg" media-type="image/jpeg" />
+		<item id="x001bj_page-00107.jpg" href="image/001bj_page-00107.jpg" media-type="image/jpeg" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" properties="cover-image" />
+		<item id="smil1" href="001bj_page-0010.smil" media-type="application/smil+xml"/>
+		<item id="audio1" href="audio/001bj_page-0010.mp3" media-type="audio/mpeg"/>
+
+	</manifest>
+	<spine page-progression-direction="rtl">
+		<itemref idref="a11y_sample1-10" properties="page-spread-right" />
+	</spine>
+</package>

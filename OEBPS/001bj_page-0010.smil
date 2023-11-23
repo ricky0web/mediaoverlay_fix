@@ -1,0 +1,32 @@
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+    <body>
+        <par id="id1">
+            <text src="a11y_sample1-10.xhtml#_idContainer011"/>
+            <audio src="audio/001bj_page-0010.mp3" clipBegin="00:00:00.000" clipEnd="00:00:00.512"/>
+        </par>
+        <par id="id2">
+            <text src="a11y_sample1-10.xhtml#_idContainer012"/>
+            <audio src="audio/001bj_page-0010.mp3" clipBegin="00:00:00.512" clipEnd="00:00:03.573"/>
+        </par>
+        <par id="id3">
+            <text src="a11y_sample1-10.xhtml#_idContainer013"/>
+            <audio src="audio/001bj_page-0010.mp3" clipBegin="00:00:03.573" clipEnd="00:00:04.480"/>
+        </par>
+        <par id="id4">
+            <text src="a11y_sample1-10.xhtml#_idContainer014"/>
+            <audio src="audio/001bj_page-0010.mp3" clipBegin="00:00:04.480" clipEnd="00:00:07.008"/>
+        </par>
+        <par id="id5">
+            <text src="a11y_sample1-10.xhtml#_idContainer015"/>
+            <audio src="audio/001bj_page-0010.mp3" clipBegin="00:00:07.008" clipEnd="00:00:08.750"/>
+        </par>
+        <par id="id6">
+            <text src="a11y_sample1-10.xhtml#_idContainer016"/>
+            <audio src="audio/001bj_page-0010.mp3" clipBegin="00:00:08.750" clipEnd="00:00:10.774"/>
+        </par>
+        <par id="id7">
+            <text src="a11y_sample1-10.xhtml#_idContainer017"/>
+            <audio src="audio/001bj_page-0010.mp3" clipBegin="00:00:10.774" clipEnd="00:00:10.966"/>
+        </par>
+    </body>
+</smil>
